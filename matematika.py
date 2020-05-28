@@ -12,3 +12,7 @@ def bagi(a, b):
 
 def pangkat(a, b):
     return a**b
+
+def modulus(a, b):
+    return a % b
+
