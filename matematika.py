@@ -9,3 +9,6 @@ def kali(a, b):
 
 def bagi(a, b):
     return a / b 
+
+def pangkat(a, b):
+    return a**b
